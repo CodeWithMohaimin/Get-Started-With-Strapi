@@ -1,4 +1,4 @@
-# Get Started With Strapi
+# Learn Strapi Js with Fun 🥳
 
 ![Strapi Banner](./public/images/strapibanner.png)
 
